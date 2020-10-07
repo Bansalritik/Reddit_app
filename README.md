@@ -41,7 +41,7 @@ Here , You can create a ``superuser`` that you can have access to using:
     The data is then fetched from the database and displayed accordingly using HTML and CSS.
 
 ## SAMPLE IMAGES:
-
+<img src = https://github.com/Bansalritik/Reddit_app/blob/master/redditsaver/static/images/Screenshot%20(394).png width=500px>
 
 
 ## Tech-Stack:
