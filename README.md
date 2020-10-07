@@ -45,15 +45,7 @@ Here , You can create a ``superuser`` that you can have access to using:
   <img src=https://github.com/Bansalritik/Reddit_app/blob/master/redditsaver/static/images/Screenshot%20(395).png width=400px>
   <img src= https://github.com/Bansalritik/Reddit_app/blob/master/redditsaver/static/images/Screenshot%20(394).png width=400px>
 </div>
-<div>
- <div>
-  <img src = https://github.com/Bansalritik/Reddit_app/blob/master/redditsaver/static/images/Screenshot%20(395).png width=400px>
- </div>
- <div>
-  <img src = https://github.com/Bansalritik/Reddit_app/blob/master/redditsaver/static/images/Screenshot%20(394).png width=400px>
- </div>
-</div>
- 
+
 
 
 ## Tech-Stack:
