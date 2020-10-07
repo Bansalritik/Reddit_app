@@ -1,5 +1,6 @@
 # Reddit_app
 A web application that allows user to login to their reddit account and fetches all the allowed data, It shows the only shows the link posts of all the subreddits you have joined, the top authors who have shared most of the links and also the top domains in all the posts.
+
                                                      ``If you want to have a demo of the web app you can`` [click here](https://pure-reaches-41056.herokuapp.com/)
 ### Approach:
 A model is defined that contains all the attributes stored in the SQLite table. The model contains all the structure that stores the data that will be needed to use up in the webapp. 
