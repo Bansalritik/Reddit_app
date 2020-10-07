@@ -1,7 +1,7 @@
 # Reddit_app
-A web application that allows user to login to their reddit account and fetches all the allowed data, It shows the only shows the link posts of all the subreddits you have joined, the top authors who have shared most of the links and also the top domains in all the posts.
-
-                                                     ``If you want to have a demo of the web app you can`` [click here](https://pure-reaches-41056.herokuapp.com/)
+A web application that allows user to login to their reddit account and fetches all the allowed data, It shows the only shows the link posts of all the subreddits you have joined, the top authors who have shared most of the links and also the top domains in all the posts.<br>
+ ``If you want to have a demo of the web app you can`` [click here](https://pure-reaches-41056.herokuapp.com/)
+ 
 ### Approach:
 A model is defined that contains all the attributes stored in the SQLite table. The model contains all the structure that stores the data that will be needed to use up in the webapp. 
 A wrapper called ``praw`` has been used here which takes an instatnce connected to the reddit id as soon as the client logins to reddit and then used the saame to fetch data by defining different scopes. The data is stored in the database which is then fetched according to the needs and shown to the client by using HTML, CSS for the frontend integrated with the backend.
