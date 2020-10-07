@@ -42,8 +42,8 @@ Here , You can create a ``superuser`` that you can have access to using:
 
 ## SAMPLE IMAGES:
 <div class="ui small images">
-  <img src=https://github.com/Bansalritik/Reddit_app/blob/master/redditsaver/static/images/Screenshot%20(395).png width=400px>
-  <img src= https://github.com/Bansalritik/Reddit_app/blob/master/redditsaver/static/images/Screenshot%20(394).png width=400px>
+  <img src=https://github.com/Bansalritik/Reddit_app/blob/master/redditsaver/static/images/Screenshot%20(395).png width=500px>
+  <img src= https://github.com/Bansalritik/Reddit_app/blob/master/redditsaver/static/images/Screenshot%20(394).png width=500px>
 </div>
 
 
