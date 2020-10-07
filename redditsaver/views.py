@@ -50,7 +50,7 @@ def Index(request):
                                            Reddit_Link=temp)
 
     # Filtering the data and saving in various objects
-    Data = Reddit_Data.objects.filter(Reddit_Link=True)
+    Data = Reddit_Data.objects.filter(Reddit_Link=True, Reddit_username = str(Name))
     Users = Reddit_Data.objects.filter(Reddit_Username=str(Name)).values('Reddit_User').annotate(total=Count('Reddit_User')).order_by('-total')[:3]
     Domains = Reddit_Data.objects.filter(Reddit_Username=str(Name)).values('Reddit_Domain').annotate(total=Count('Reddit_Domain')).order_by('-total')[:3]
     Context = {
